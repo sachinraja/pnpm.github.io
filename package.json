@@ -18,9 +18,9 @@
   "dependencies": {
     "@algolia/client-search": "^4.11.0",
     "@crowdin/cli": "3.7.4",
-    "@docusaurus/core": "2.0.0-beta.14",
+    "@docusaurus/core": "2.4.0",
     "@docusaurus/plugin-client-redirects": "^2.0.0-beta.14",
-    "@docusaurus/preset-classic": "2.0.0-beta.14",
+    "@docusaurus/preset-classic": "2.4.0",
     "@types/react": "^17.0.37",
     "clsx": "^1.1.1",
     "prism-react-renderer": "^1.2.1",
